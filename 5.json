@@ -1,0 +1,31 @@
+{
+    "name": "Venom",
+    "description": "Testing",
+    "image": "https://ipfs.io/ipfs/QmSsYRx3LpDAb1GZQm7zZ1AuHZjfbPkD6J7s9r41xu1mf8?filename=pug.png",
+    "attributes": [
+    {
+      "trait_type": "Background", 
+      "value": "123"
+    }, 
+    {
+      "trait_type": "Skin", 
+      "value": "black"
+    }, 
+    {
+      "trait_type": "Outfit", 
+      "value": "baggy"
+    }, 
+    {
+      "trait_type": "eye", 
+      "value": "green"
+    }, 
+    {
+      "trait_type": "mouth", 
+      "value": "big "
+    }, 
+    {
+      "trait_type": "Hair", 
+      "value": "blue"
+    }
+  ]
+}
